@@ -1,0 +1,31 @@
+body{
+	font-family: 'Roboto', Arial, Tahoma , sans-serif;
+}
+header{
+	background-image: url(../img/background_header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+#div_photo_portrait{
+}
+#photo_portrait{
+	height: 20%;
+}
+#titre{
+}
+#sous-titre{
+}
+#TitreEtSousTitre{
+	display: flex;
+	flex-direction: column;
+	color: white;
+}
+article{
+	border-top: 2px red solid;
+	border-bottom: 5px red solid;
+	border-radius: 6% ;
+}
