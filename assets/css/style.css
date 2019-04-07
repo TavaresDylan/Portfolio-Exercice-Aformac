@@ -1,33 +1,37 @@
+/* Général */
 body{
 	font-family: 'Roboto', Arial, Tahoma , sans-serif;
 }
+/* Entête de page */
 header{
 	background-image: url(../img/background_header.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+	border: 3px red solid;
 	display: flex;
+	justify-content: space-around;
 	flex-wrap: wrap;
-	justify-content: space-between;
-
-}
-#div_photo_portrait{
-	/*width: auto;
-	height: auto;*/
 }
 #photo_portrait{
-	/*height: 50%;*/
+	display: flex;
+	width: 35%;
+	height: 35%;
 }
+
 #titre{
+
 }
 #sous-titre{
+	display: flex;
+	justify-content: center;
+
 }
 #TitreEtSousTitre{
-	/*display: flex;
-	justify-content: center;
-	align-content: flex-end;
+	display: flex;
 	flex-direction: column;
-	color: white;*/
+	color: white;
+	font-size: 1.9em;
 }
 article{
 	border-top: 2px red solid;
