@@ -28,11 +28,7 @@
 
 ## 2 -Maquette du projet :
 
-![Capture d'écran de la maquette](/assets/img/Maquette1.jpg)
-![Capture d'écran de la maquette](/assets/img/Maquette2.jpg)
-![Capture d'écran de la maquette](/assets/img/Maquette3.jpg)
-![Capture d'écran de la maquette](/assets/img/Maquette4.jpg)
-![Capture d'écran de la maquette](/assets/img/Maquette5.jpg)
+![Capture d'écran de la maquette](/assets/img/Maquette1.jpg)  ![Capture d'écran de la maquette](/assets/img/Maquette2.jpg)  ![Capture d'écran de la maquette](/assets/img/Maquette3.jpg)  ![Capture d'écran de la maquette](/assets/img/Maquette4.jpg)  ![Capture d'écran de la maquette](/assets/img/Maquette5.jpg)
 
 - Un Header contenant un Titre (Du site) , et un menu de navigation
 - Le Menu de navigation ce découpe en 4 parties :
