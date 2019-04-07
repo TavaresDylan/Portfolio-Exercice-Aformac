@@ -28,7 +28,7 @@
 - Photo portrait personnelle (Sérieuse , attention à l'arrière plan cela doit être une présentation pro)
 - Description personnelle
 - Formulaire de contact
-- Coordonnées : Tel 06/14/14/42/56 , 23 Rue Stéphane servant 03100 Montluçon , Tavares.dylan03@gmail.fr
+- Coordonnées : Tel 06/14/14/42/56 , 23 Rue Stéphane servant 03100 Montluçon , Tavares.dylan03@gmail.com
 
 ### Décomposition du contenu:
 - Un *Header* contenant un Titre et un sous-titre , et une photo de présentation.
