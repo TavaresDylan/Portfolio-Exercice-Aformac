@@ -8,21 +8,26 @@ header{
 	background-position: center;
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-between;
 
 }
 #div_photo_portrait{
+	/*width: auto;
+	height: auto;*/
 }
 #photo_portrait{
-	height: 20%;
+	/*height: 50%;*/
 }
 #titre{
 }
 #sous-titre{
 }
 #TitreEtSousTitre{
-	display: flex;
+	/*display: flex;
+	justify-content: center;
+	align-content: flex-end;
 	flex-direction: column;
-	color: white;
+	color: white;*/
 }
 article{
 	border-top: 2px red solid;
