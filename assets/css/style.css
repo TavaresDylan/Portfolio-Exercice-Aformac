@@ -9,32 +9,30 @@ header{
 	background-size: cover;
 	background-position: center;
 	border: 3px red solid;
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
+	border-radius: 0% 0% 40% 40%;
 }
 #photo_portrait{
-	display: flex;
-	width: 35%;
-	height: 35%;
-}
-
-#titre{
-
-}
-#sous-titre{
-	display: flex;
-	justify-content: center;
-
+	padding: 0;
+	width: 60%;
+	height: 60%;
+	border-radius: 0% 0% 20% 20%;
 }
 #TitreEtSousTitre{
-	display: flex;
-	flex-direction: column;
-	color: white;
-	font-size: 1.9em;
+	
 }
 article{
-	border-top: 2px red solid;
+	margin-top: 3%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	border-top: 5px red solid;
+	border-bottom: 5px red solid;
+	border-radius: 6% ;
+}
+footer{
+	margin-top: 3%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	border-top: 5px red solid;
 	border-bottom: 5px red solid;
 	border-radius: 6% ;
 }
